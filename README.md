@@ -2,6 +2,11 @@
 
 # Fixing PyTorch Compatibility for Isaac Lab on New-Generation NVIDIA GPUs
 
+TLDR:
+
+clone file Dockerfile.base to  your local drive and replace file `{ISAACLAB_PATH}/docker/Dockerfile.base`.
+
+
 ## 1. The Problem
 
 This project addresses a compatibility issue when running the official Isaac Lab Docker image on **new-generation NVIDIA GPUs** (e.g., RTX 40-series, RTX 50-series, etc.).
