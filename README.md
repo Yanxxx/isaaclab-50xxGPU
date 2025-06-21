@@ -2,9 +2,9 @@
 
 # Fixing PyTorch Compatibility for Isaac Lab on New-Generation NVIDIA GPUs
 
-TLDR:
+# TLDR:
 
-clone file Dockerfile.base to  your local drive and replace file `{ISAACLAB_PATH}/docker/Dockerfile.base`.
+clone file Dockerfile.base to  your local drive and replace file `{ISAACLAB_PATH}/docker/Dockerfile.base`. Enjoy!
 
 
 ## 1. The Problem
